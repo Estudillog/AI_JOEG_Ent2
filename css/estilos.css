@@ -1,0 +1,214 @@
+body{
+    font-family: 'AlexandriaFLF', sans-serif;
+                                                
+}
+body{
+    font-family: 'AlexandriaFLF', sans-serif;
+                                                
+}
+header{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.class-linea{
+    background-color: #f4822b;
+    width: 1920px;
+    height: 2px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+nav{
+    text-align: center;
+    margin-left:auto ;
+    margin-right: auto;
+
+}
+nav>a{
+    color: #f4822b;
+    font-size: 30px;
+    text-decoration: none;
+    margin-right: 90px;
+    margin-left: 90px;
+
+}
+nav>a:hover{
+    color: #0a3a16;
+    text-decoration: none;
+}
+.imagen{
+    margin-bottom: 30px;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    overflow: hidden;
+    max-height: 500px;
+    max-width: 1366px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.class-beneficios{
+    text-align: center;
+    margin-top: 80px;
+    padding-top: 150px;
+}
+h2{
+    color: #f4822b;
+    font-size: 35px;
+}
+h3{
+    color: #0a3a16;
+    font-size: 25px;
+    
+}
+.beneficios{
+    margin-top: 80px;
+    text-align: center;
+}
+.beneficios1{
+    text-align: center;
+    display: inline-block;
+    width: 300px;
+    margin-top: 120px;
+    margin-right: auto;
+    margin-left: auto;
+}
+footer{
+    background-color: #f4822b;
+    height: 130px;
+    margin-top: 80px;
+    text-align: center;
+    padding-top: 0px;
+}
+
+.class-redes{
+margin-top: 40px;
+margin-right: 40px;
+margin-right: 40px;
+
+}
+.class-redes>a{
+    color: #0a3a16;
+}
+.final{
+    text-align: center;
+}
+p{
+    color: #f4822b;
+}
+nav-2{
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 20px;
+
+}
+nav-2>a{
+    color: #0a3a16;
+    font-size: 30px;
+    text-decoration: none;
+    margin-right: 90px;
+    margin-left: 90px;
+    padding-top: 20px;
+}
+nav-2>a:hover{
+    color: #0a3a16;
+    text-decoration: none;
+}
+.class-carrusel{
+    width: 500px;
+    height: 500px;
+}
+.titulo{
+    padding-left: 120px;
+    color: #f4822b;
+    font-size: 45px;
+    padding-top: 80px;
+
+}
+.textos{
+    color: #0a3a16;
+    font-size: 25px;
+    width: 530px;
+    height: 350px;
+    margin-right: 30px;
+
+   
+}
+.class-texto-carru{
+    display: inline-block;
+    align-content: center;
+    justify-content: center;
+    margin-left: 140px
+}
+
+.beneficios1-1{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1400px;
+    height: 200px;
+    padding-top: 150px;
+}
+
+.titulo-prod{
+    text-align: center;
+    color: #f4822b;
+    font-size: 45px;
+}
+
+section{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.conge{
+    width: 1300px;
+ margin-left: auto;
+ margin-right: auto;
+}
+.class-conge{
+    text-align: center;
+    margin-top: 50px;
+}
+.cont-display{
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+}
+.class-video1{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+.class-vids{
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    
+}
+.text-tes{
+    margin-left: auto;
+    margin-left: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.text-vid{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.class-imagen-ref{
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+    height: 400px;
+}
+h4{
+    font-size: 30px;
+    font-weight: bolder;
+}
